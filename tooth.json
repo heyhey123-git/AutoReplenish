@@ -14,7 +14,7 @@
       ]
     },
     "dependencies": {
-      "github.com/LiteLDev/LegacyScriptEngine": ">=0.6.4"
+      "gitea.litebds.com/LiteLDev/legacy-script-engine-quickjs": ">=0.6.4"
     },
     "prerequisites": {
       "github.com/LiteLDev/LeviLamina": ">=0.10.5"
